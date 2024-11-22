@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MarkSetBotAlpha.Module.MarkSetBotWWW.Client
+build_property.RootNamespace = MarkSetBotAlpha.Module.MarkSetBotWWW.Client
+build_property.ProjectDir = D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Client
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Solutions/MarkSetBotAlpha.Module.MarkSetBotWWW/Client/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXJrU2V0Qm90QWxwaGEuTW9kdWxlLk1hcmtTZXRCb3RXV1dcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Solutions/MarkSetBotAlpha.Module.MarkSetBotWWW/Client/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXJrU2V0Qm90QWxwaGEuTW9kdWxlLk1hcmtTZXRCb3RXV1dcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Solutions/MarkSetBotAlpha.Module.MarkSetBotWWW/Client/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Settings.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNYXJrU2V0Qm90QWxwaGEuTW9kdWxlLk1hcmtTZXRCb3RXV1dcU2V0dGluZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Solutions/MarkSetBotAlpha.Module.MarkSetBotWWW/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

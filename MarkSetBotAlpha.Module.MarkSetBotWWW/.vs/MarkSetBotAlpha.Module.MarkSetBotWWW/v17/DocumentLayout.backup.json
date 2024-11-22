@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8E58A1-CD09-4208-BF66-A8BB341FD669}|Client\\MarkSetBotAlpha.Module.MarkSetBotWWW.Client.csproj|d:\\solutions\\marksetbotalpha.module.marksetbotwww\\client\\modules\\marksetbotalpha.module.marksetbotwww\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8E58A1-CD09-4208-BF66-A8BB341FD669}|Client\\MarkSetBotAlpha.Module.MarkSetBotWWW.Client.csproj|solutionrelative:client\\modules\\marksetbotalpha.module.marksetbotwww\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8E58A1-CD09-4208-BF66-A8BB341FD669}|Client\\MarkSetBotAlpha.Module.MarkSetBotWWW.Client.csproj|d:\\solutions\\marksetbotalpha.module.marksetbotwww\\client\\modules\\marksetbotalpha.module.marksetbotwww\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8E58A1-CD09-4208-BF66-A8BB341FD669}|Client\\MarkSetBotAlpha.Module.MarkSetBotWWW.Client.csproj|solutionrelative:client\\modules\\marksetbotalpha.module.marksetbotwww\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8E58A1-CD09-4208-BF66-A8BB341FD669}|Client\\MarkSetBotAlpha.Module.MarkSetBotWWW.Client.csproj|d:\\solutions\\marksetbotalpha.module.marksetbotwww\\client\\modules\\marksetbotalpha.module.marksetbotwww\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8E58A1-CD09-4208-BF66-A8BB341FD669}|Client\\MarkSetBotAlpha.Module.MarkSetBotWWW.Client.csproj|solutionrelative:client\\modules\\marksetbotalpha.module.marksetbotwww\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|d:\\solutions\\marksetbotalpha.module.marksetbotwww\\server\\wwwroot\\modules\\marksetbotalpha.module.marksetbotwww\\module.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|solutionrelative:server\\wwwroot\\modules\\marksetbotalpha.module.marksetbotwww\\module.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|d:\\solutions\\marksetbotalpha.module.marksetbotwww\\server\\wwwroot\\modules\\marksetbotalpha.module.marksetbotwww\\module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|solutionrelative:server\\wwwroot\\modules\\marksetbotalpha.module.marksetbotwww\\module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|d:\\solutions\\marksetbotalpha.module.marksetbotwww\\server\\services\\marksetbotwwwservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|solutionrelative:server\\services\\marksetbotwwwservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|d:\\solutions\\marksetbotalpha.module.marksetbotwww\\server\\controllers\\marksetbotwwwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B05448-788F-433D-92C0-FED35122D45A}|Server\\MarkSetBotAlpha.Module.MarkSetBotWWW.Server.csproj|solutionrelative:server\\controllers\\marksetbotwwwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}|..\\oqtane.framework\\Oqtane.Server\\Oqtane.Server.csproj|d:\\solutions\\oqtane.framework\\oqtane.server\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}|..\\oqtane.framework\\Oqtane.Server\\Oqtane.Server.csproj|d:\\solutions\\oqtane.framework\\oqtane.server\\pages\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}|..\\oqtane.framework\\Oqtane.Server\\Oqtane.Server.csproj|d:\\solutions\\oqtane.framework\\oqtane.server\\pages\\external.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}|..\\oqtane.framework\\Oqtane.Server\\Oqtane.Server.csproj|d:\\solutions\\oqtane.framework\\oqtane.server\\pages\\sitemap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}|..\\oqtane.framework\\Oqtane.Server\\Oqtane.Server.csproj|d:\\solutions\\oqtane.framework\\oqtane.server\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6FCC9-EFEB-4C0E-A2CF-8103914C5196}|..\\oqtane.framework\\Oqtane.Server\\Oqtane.Server.csproj|d:\\solutions\\oqtane.framework\\oqtane.server\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.razor",
+              "DocumentMoniker": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Settings.razor",
+              "RelativeDocumentMoniker": "Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Settings.razor",
+              "ToolTip": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Settings.razor",
+              "RelativeToolTip": "Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Settings.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:47:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Edit.razor",
+              "RelativeDocumentMoniker": "Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Edit.razor",
+              "ToolTip": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Edit.razor",
+              "RelativeToolTip": "Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Edit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:47:36.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Index.razor",
+              "RelativeDocumentMoniker": "Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Index.razor",
+              "ToolTip": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Index.razor",
+              "RelativeToolTip": "Client\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Index.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:47:34.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Module.js",
+              "DocumentMoniker": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+              "RelativeDocumentMoniker": "Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+              "ToolTip": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+              "RelativeToolTip": "Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T17:46:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Module.css",
+              "DocumentMoniker": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+              "RelativeDocumentMoniker": "Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+              "ToolTip": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+              "RelativeToolTip": "Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T17:46:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarkSetBotWWWService.cs",
+              "DocumentMoniker": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\Services\\MarkSetBotWWWService.cs",
+              "RelativeDocumentMoniker": "Server\\Services\\MarkSetBotWWWService.cs",
+              "ToolTip": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\Services\\MarkSetBotWWWService.cs",
+              "RelativeToolTip": "Server\\Services\\MarkSetBotWWWService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:04:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarkSetBotWWWController.cs",
+              "DocumentMoniker": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\Controllers\\MarkSetBotWWWController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\MarkSetBotWWWController.cs",
+              "ToolTip": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\Controllers\\MarkSetBotWWWController.cs",
+              "RelativeToolTip": "Server\\Controllers\\MarkSetBotWWWController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:04:15.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "External.cshtml",
+              "DocumentMoniker": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\External.cshtml",
+              "RelativeDocumentMoniker": "..\\oqtane.framework\\Oqtane.Server\\Pages\\External.cshtml",
+              "ToolTip": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\External.cshtml",
+              "RelativeToolTip": "..\\oqtane.framework\\Oqtane.Server\\Pages\\External.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:01:49.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Files.cshtml",
+              "DocumentMoniker": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Files.cshtml",
+              "RelativeDocumentMoniker": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Files.cshtml",
+              "ToolTip": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Files.cshtml",
+              "RelativeToolTip": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Files.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:01:48.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sitemap.cshtml",
+              "DocumentMoniker": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Sitemap.cshtml",
+              "RelativeDocumentMoniker": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Sitemap.cshtml",
+              "ToolTip": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Sitemap.cshtml",
+              "RelativeToolTip": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Sitemap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:01:44.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Logout.cshtml",
+              "ToolTip": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:01:43.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:01:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\Solutions\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml",
+              "RelativeToolTip": "..\\oqtane.framework\\Oqtane.Server\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:01:28.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

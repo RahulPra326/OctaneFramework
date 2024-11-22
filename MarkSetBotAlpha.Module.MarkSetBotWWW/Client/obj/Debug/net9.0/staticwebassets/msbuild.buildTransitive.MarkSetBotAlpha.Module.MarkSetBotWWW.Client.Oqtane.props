@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MarkSetBotAlpha.Module.MarkSetBotWWW.Client.Oqtane.props" />
+</Project>

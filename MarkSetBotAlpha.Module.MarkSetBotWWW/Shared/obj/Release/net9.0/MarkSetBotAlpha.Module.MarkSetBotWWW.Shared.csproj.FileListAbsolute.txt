@@ -1,0 +1,15 @@
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\bin\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.Oqtane.deps.json
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\bin\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.Oqtane.dll
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\bin\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.Oqtane.pdb
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\bin\Release\net9.0\Oqtane.Shared.dll
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\bin\Release\net9.0\Oqtane.Shared.pdb
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.csproj.AssemblyReference.cache
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.AssemblyInfoInputs.cache
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.AssemblyInfo.cs
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.csproj.CoreCompileInputs.cache
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetB.528AE8FE.Up2Date
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.Oqtane.dll
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\refint\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.Oqtane.dll
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.Oqtane.pdb
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Shared\obj\Release\net9.0\ref\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.Oqtane.dll

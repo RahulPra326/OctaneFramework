@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0IsprjReiOs=",
+  "success": true,
+  "projectFilePath": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Shared\\MarkSetBotAlpha.Module.MarkSetBotWWW.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "sWx6/LvzoeJvHnE/YW6lmMOCrDlHSH0mBR/vbGIteEU=",
+  "Source": "MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+  "BasePath": "_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane\\wwwroot",
+      "Source": "MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "ContentRoot": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\",
+      "BasePath": "_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\pz5r4emhxa-w8laurpqkf.gz",
+      "SourceId": "MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "RelativePath": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module#[.{fingerprint=w8laurpqkf}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ugt4kbfu25",
+      "Integrity": "Ln7c56Dorp03+8dWPPQ2ROVTmUW+/KwZe/hO7v5cPvM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js"
+    },
+    {
+      "Identity": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\r2klsqlek3-fursb7fvhw.gz",
+      "SourceId": "MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "RelativePath": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module#[.{fingerprint=fursb7fvhw}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ccyv3k0uox",
+      "Integrity": "ZA1whd6v+NH9oT2VVY4O+S/QSCf/y7Mtl4GSYHNpJMA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css"
+    },
+    {
+      "Identity": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+      "SourceId": "MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\",
+      "BasePath": "_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "RelativePath": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fursb7fvhw",
+      "Integrity": "95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css"
+    },
+    {
+      "Identity": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+      "SourceId": "MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\",
+      "BasePath": "_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane",
+      "RelativePath": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8laurpqkf",
+      "Integrity": "EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\r2klsqlek3-fursb7fvhw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.021276595745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZA1whd6v+NH9oT2VVY4O+S/QSCf/y7Mtl4GSYHNpJMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css.gz",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\r2klsqlek3-fursb7fvhw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZA1whd6v+NH9oT2VVY4O+S/QSCf/y7Mtl4GSYHNpJMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZA1whd6v+NH9oT2VVY4O+S/QSCf/y7Mtl4GSYHNpJMA="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.fursb7fvhw.css",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\r2klsqlek3-fursb7fvhw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.021276595745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZA1whd6v+NH9oT2VVY4O+S/QSCf/y7Mtl4GSYHNpJMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fursb7fvhw"
+        },
+        {
+          "Name": "label",
+          "Value": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.fursb7fvhw.css",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fursb7fvhw"
+        },
+        {
+          "Name": "label",
+          "Value": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.fursb7fvhw.css.gz",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\r2klsqlek3-fursb7fvhw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZA1whd6v+NH9oT2VVY4O+S/QSCf/y7Mtl4GSYHNpJMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fursb7fvhw"
+        },
+        {
+          "Name": "label",
+          "Value": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZA1whd6v+NH9oT2VVY4O+S/QSCf/y7Mtl4GSYHNpJMA="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\pz5r4emhxa-w8laurpqkf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011235955056"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ln7c56Dorp03+8dWPPQ2ROVTmUW+/KwZe/hO7v5cPvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js.gz",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\pz5r4emhxa-w8laurpqkf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ln7c56Dorp03+8dWPPQ2ROVTmUW+/KwZe/hO7v5cPvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ln7c56Dorp03+8dWPPQ2ROVTmUW+/KwZe/hO7v5cPvM="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.w8laurpqkf.js",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\pz5r4emhxa-w8laurpqkf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011235955056"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ln7c56Dorp03+8dWPPQ2ROVTmUW+/KwZe/hO7v5cPvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8laurpqkf"
+        },
+        {
+          "Name": "label",
+          "Value": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.w8laurpqkf.js",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\wwwroot\\Modules\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Module.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8laurpqkf"
+        },
+        {
+          "Name": "label",
+          "Value": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI="
+        }
+      ]
+    },
+    {
+      "Route": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.w8laurpqkf.js.gz",
+      "AssetFile": "D:\\Solutions\\MarkSetBotAlpha.Module.MarkSetBotWWW\\Server\\obj\\Debug\\net9.0\\compressed\\pz5r4emhxa-w8laurpqkf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ln7c56Dorp03+8dWPPQ2ROVTmUW+/KwZe/hO7v5cPvM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 15:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8laurpqkf"
+        },
+        {
+          "Name": "label",
+          "Value": "Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ln7c56Dorp03+8dWPPQ2ROVTmUW+/KwZe/hO7v5cPvM="
+        }
+      ]
+    }
+  ]
+}

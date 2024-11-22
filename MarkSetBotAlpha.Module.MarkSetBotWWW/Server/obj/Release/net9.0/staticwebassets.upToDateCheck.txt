@@ -1,0 +1,4 @@
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Server\wwwroot\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.js
+D:\Solutions\MarkSetBotAlpha.Module.MarkSetBotWWW\Server\wwwroot\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.css
+wwwroot\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.css
+wwwroot\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.js

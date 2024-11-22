@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"26"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002295JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 21 Nov 2024 15:46:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.fursb7fvhw.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fursb7fvhw"},{"Name":"integrity","Value":"sha256-95JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0="},{"Name":"label","Value":"_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002295JlOSZgbW56ovBO2DGvr1HAcjxwfGJ0bnmF5Umm4U0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 21 Nov 2024 15:46:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"106"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 21 Nov 2024 15:46:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.w8laurpqkf.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Modules\MarkSetBotAlpha.Module.MarkSetBotWWW\Module.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w8laurpqkf"},{"Name":"integrity","Value":"sha256-EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI="},{"Name":"label","Value":"_content/MarkSetBotAlpha.Module.MarkSetBotWWW.Server.Oqtane/Modules/MarkSetBotAlpha.Module.MarkSetBotWWW/Module.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"106"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022EMTCJH154pdNTp0lQCog95P3qcXEqYZHUwYtm5goaHI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 21 Nov 2024 15:46:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
